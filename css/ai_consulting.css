@@ -36,11 +36,11 @@
 
 .aiconsultingBg .typography .text-1 {
     color: #fff;
-    font-size: 36px;
+    font-size: var(--fs-36);
 }
 .aiconsultingBg .typography .subtext
 {
-    font-size: 28px;
+    font-size: var(--fs-28);
 }
 
 .capt
@@ -55,14 +55,14 @@
 }
 .countingNumBox .icon
 {
-    font-size: 60px;
+    font-size: var(--fs-60);
     margin-right: 20px;
     color: #ed1b4a;
 }
 .countingNumBox .numbers
 {
     font-weight: 900;
-    font-size: 60px;
+    font-size: var(--fs-60);
     line-height: 1;
     font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
@@ -105,7 +105,7 @@
 .bxSqtp .title
 {
     color: #ed1b4a;
-    font-size: 18px;
+    font-size: var(--fs-18);
     opacity: 1;
     width: 100%;
     display: block;
@@ -206,19 +206,19 @@
 }
 
 .title .text-first {
-    font-size: 30px;
+    font-size: var(--fs-30);
     font-weight: bold;
     text-transform: uppercase;
 }
 
 .list-12
 {
-    font-size: 12px;
+    font-size: var(--fs-12);
 }
 
 .fs-12
 {
-    font-size: 12px;
+    font-size: var(--fs-12);
 }
 .timelineSteps-warpper
 {
@@ -326,7 +326,7 @@
 .Benefits-sec .featureBox .text-p {
     line-height: 1.5;
     font-weight: bold;
-    font-size: 18px;
+    font-size: var(--fs-18);
     width: 75%;
     margin: auto;
 }
@@ -343,7 +343,7 @@
     background: none;
     color: #222;
     font-weight: bold;
-    font-size: 12px;
+    font-size: var(--fs-12);
     transform: translateY(-10px);
     text-transform: uppercase;
 }
@@ -408,7 +408,7 @@
 
 .indexMainBg .typography .text-1 {
     color: #fff;
-    font-size: 26px;
+    font-size: var(--fs-26);
     width: 70%;
     margin: auto;
 }
@@ -424,11 +424,11 @@
 
 .indexMainBg .typography .text-1 {
     color: #fff;
-    font-size: 24px;
+    font-size: var(--fs-24);
 }
 .indexMainBg .typography .subtext
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
 }
 
 .indexMainBg .ul-list {

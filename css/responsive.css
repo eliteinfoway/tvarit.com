@@ -569,8 +569,8 @@
         font-weight: 700;
     }
     .macbook-position {
-        height: 270px;
-        max-width: 430px !important;
+        height: 280px;
+        max-width: 480px !important;
         position: relative;
         right: 0;
         margin-bottom: 60px !important;
@@ -683,8 +683,8 @@ and (-webkit-min-device-pixel-ratio: 1) {
         width: 40px;
     }
     .macbook-position {
-        height: 146px;
-        max-width: 260px !important;
+       height: 170px;
+        max-width: 312px !important;
         position: relative;
         right: 0;
         margin-bottom: 60px !important;
@@ -789,4 +789,15 @@ and (-webkit-min-device-pixel-ratio: 1) {
     {
         padding-bottom: 50px;
     }
+
+    .macbook-position {
+        position: absolute;
+        right: 13%;
+        top: 16%;
+        width: 100%;
+        height: 584px;
+        max-width: 992px;
+        border-radius: 2px;
+    }
+
 }

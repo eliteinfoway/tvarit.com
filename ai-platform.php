@@ -212,7 +212,7 @@
                 <span class="red">AI</span> Platform
               </div>
              <div class="">
-                <p class="text-p" style="width:100%;font-size:18px" >
+                <p class="fs-18 w-100">
                  World’s most advanced AI platform <br/>for manufacturing data analytics
                 </p>
              </div>
@@ -243,7 +243,7 @@
     <br>
     <!------------------------ CONSULTING end --------------------->
     <div class="text text-center mb-0">
-    <h2 class="title red">Overview of working</h2>
+    <h2 class="text-big60">Overview of working</h2>
     </div>
     <section class="section-padding">
       <div class="container timelineSteps-warpper">
